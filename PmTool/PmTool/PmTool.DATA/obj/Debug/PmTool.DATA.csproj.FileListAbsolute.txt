@@ -1,0 +1,12 @@
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.DATA\obj\Debug\PmTool.DATA.csprojAssemblyReference.cache
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.DATA\obj\Debug\PmTool.DATA.csproj.CoreCompileInputs.cache
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.DATA\bin\Debug\PmTool.DATA.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.DATA\bin\Debug\PmTool.DATA.pdb
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.DATA\bin\Debug\ServiceStack.Common.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.DATA\bin\Debug\ServiceStack.Interfaces.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.DATA\bin\Debug\ServiceStack.OrmLite.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.DATA\bin\Debug\ServiceStack.OrmLite.SqlServer.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.DATA\bin\Debug\ServiceStack.Text.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.DATA\obj\Debug\PmTool.DATA.csproj.CopyComplete
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.DATA\obj\Debug\PmTool.DATA.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.DATA\obj\Debug\PmTool.DATA.pdb

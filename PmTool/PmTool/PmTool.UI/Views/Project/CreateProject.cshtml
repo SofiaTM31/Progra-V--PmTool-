@@ -1,0 +1,31 @@
+﻿@model IEnumerable<PmTool.UI.Models.Projects>
+
+@{
+    ViewBag.Title = "CreateProject";
+}
+
+<h2>Create Project</h2>
+
+<div class="form-inline">
+    @using (Html.BeginForm("ChangeProjectCategory", "Project"))
+    {
+        @Html.DropDownList("dllProjectTypes", (IEnumerable<SelectListItem>)
+       ViewBag.dllProjectTypes, "Sin Filtro", new { @class = "form-control" })
+        <input type="submit" value="Filtrar" class="btn btn-success" />
+    }
+</div>
+
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="col-md-3">
+            <div class="row">
+                <h4><span id="nombreProducto" style="color:blue">@item.Project_name</span></h4>
+            </div>
+
+        </div>
+    }
+</div>
+
+
+

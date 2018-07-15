@@ -1,0 +1,114 @@
+C:\Users\cdmenaso\Downloads\Progra 5\PmTool - Copy\PmTool.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cdmenaso\Downloads\Progra 5\PmTool - Copy\PmTool.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\cdmenaso\Downloads\Progra 5\PmTool - Copy\PmTool.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cdmenaso\Downloads\Progra 5\PmTool - Copy\PmTool.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\cdmenaso\Downloads\Progra 5\PmTool - Copy\PmTool.UI\bin\roslyn\System.IO.Compression.dll
+C:\Users\cdmenaso\Downloads\Progra 5\PmTool - Copy\PmTool.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\cdmenaso\Downloads\Progra 5\PmTool\PmTool.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cdmenaso\Downloads\Progra 5\PmTool\PmTool.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\cdmenaso\Downloads\Progra 5\PmTool\PmTool.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cdmenaso\Downloads\Progra 5\PmTool\PmTool.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\cdmenaso\Downloads\Progra 5\PmTool\PmTool.UI\bin\roslyn\System.IO.Compression.dll
+C:\Users\cdmenaso\Downloads\Progra 5\PmTool\PmTool.UI\bin\roslyn\VBCSCompiler.exe
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\obj\Debug\PmTool.UI.csprojAssemblyReference.cache
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\obj\Debug\PmTool.UI.csproj.CoreCompileInputs.cache
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\roslyn\System.IO.Compression.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\roslyn\VBCSCompiler.exe
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\ApplicationInsights.config
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\roslyn\csc.exe
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\roslyn\csc.exe.config
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\roslyn\csc.rsp
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\roslyn\csi.exe
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\roslyn\csi.exe.config
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\roslyn\csi.rsp
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\roslyn\System.AppContext.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\roslyn\System.Collections.Immutable.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\roslyn\System.Console.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\roslyn\System.Diagnostics.Process.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\roslyn\System.IO.FileSystem.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\roslyn\System.IO.Pipes.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\roslyn\System.Reflection.Metadata.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\roslyn\System.Security.AccessControl.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\roslyn\System.Security.Claims.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\roslyn\System.Security.Principal.Windows.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\roslyn\System.Threading.Thread.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\roslyn\System.ValueTuple.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\roslyn\System.Xml.XmlDocument.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\roslyn\System.Xml.XPath.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\roslyn\vbc.exe
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\roslyn\vbc.exe.config
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\roslyn\vbc.rsp
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\roslyn\VBCSCompiler.exe.config
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\PmTool.UI.dll.config
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\PmTool.UI.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\PmTool.UI.pdb
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\Antlr3.Runtime.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\AutoMapper.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\Microsoft.AI.Agent.Intercept.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\Microsoft.AI.DependencyCollector.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\Microsoft.AI.Web.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\Microsoft.AI.WindowsServer.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\Microsoft.ApplicationInsights.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\Microsoft.Web.Infrastructure.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\Newtonsoft.Json.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\PmTool.DAL.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\PmTool.DATA.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\ServiceStack.Interfaces.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\ServiceStack.OrmLite.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\ServiceStack.OrmLite.SqlServer.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\ServiceStack.Text.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\System.Web.Helpers.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\System.Web.Mvc.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\System.Web.Optimization.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\System.Web.Razor.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\System.Web.WebPages.Deployment.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\System.Web.WebPages.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\System.Web.WebPages.Razor.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\WebGrease.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\PmTool.DAL.pdb
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\PmTool.DAL.dll.config
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\PmTool.DATA.pdb
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\AutoMapper.xml
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\System.Web.Helpers.xml
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\System.Web.Mvc.xml
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\System.Web.Optimization.xml
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\System.Web.Razor.xml
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\System.Web.WebPages.xml
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\System.Web.WebPages.Deployment.xml
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\System.Web.WebPages.Razor.xml
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\Antlr3.Runtime.pdb
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\Newtonsoft.Json.xml
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\Microsoft.ApplicationInsights.xml
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\Microsoft.AI.DependencyCollector.xml
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\Microsoft.AI.WindowsServer.xml
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\bin\Microsoft.AI.Web.xml
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\obj\Debug\PmTool.UI.csproj.CopyComplete
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\obj\Debug\PmTool.UI.dll
+F:\U\Fidelitas\U.18.2\PrograV\Proyecto\PmTool\PmTool\PmTool.UI\obj\Debug\PmTool.UI.pdb
